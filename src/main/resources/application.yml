@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://kk:123@localhost:27017/userinfo
+#      username: mongoadmin
+#      password: mongoadmin
+#      host: mongodb
